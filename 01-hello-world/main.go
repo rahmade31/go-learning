@@ -7,7 +7,7 @@
 // package main: program yang bisa dijalankan langsung.
 package main
 
-// import: mengambil fungsi dari paket standar "fmt".
+// import: mengambil fungsi dari paket standard "fmt".
 import (
 	"fmt"
 )
@@ -26,13 +26,20 @@ func main() {
 
 	const (
 		address   string = "Jalan Swadaya Raya	"
-		age              = 25
-		noaddress        = "Kembang Beji Village"
+		age       int    = 25
+		noaddress string = "Kembang Beji Village"
 	)
+
+	const (
+		work           string = "Piranti Digital Solusindo"
+		office_address string = "Kembangan Beji"
+	)
+
 	fmt.Println(firstname)
 	fmt.Println(middlename)
 	fmt.Println(lastname)
 	fmt.Println(age)
 	fmt.Println(address)
+	fmt.Println(work)
 
 }
