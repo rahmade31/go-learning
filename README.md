@@ -1,7 +1,7 @@
-# Belajar Go (Golang) — Zero to Hero
+# Belajar Go (Golang)
 
-Selamat datang! Repositori ini adalah **template belajar Go dari nol sampai mahir**
-("zero to hero") dengan penjelasan lengkap dan bahasa yang mudah dipahami.
+Selamat datang! Repositori ini adalah **template belajar Go**
+dengan penjelasan lengkap dan bahasa yang mudah dipahami.
 
 Go (sering disebut **Golang**) adalah bahasa pemrograman modern yang dibuat oleh
 Google. Go terkenal karena:
