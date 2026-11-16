@@ -1,0 +1,18 @@
+# Binary hasil build Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Direktori build
+/bin/
+/dist/
+
+# File environment / editor
+.env
+.idea/
+.vscode/
+.DS_Store
