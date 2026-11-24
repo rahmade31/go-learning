@@ -13,4 +13,9 @@ func main() {
 	fmt.Println("a = ", a)
 	fmt.Println("b = ", b)
 
+	// Tasking 2
+
+	celsius := 30.0
+	fahrenheit := celsius*9/5 + 32
+	fmt.Printf("%.2f°C = %.2f°F\n", celsius, fahrenheit)
 }

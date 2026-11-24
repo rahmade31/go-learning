@@ -36,4 +36,11 @@ func main() {
 	fmt.Println("Luas:", luas)
 	fmt.Println("Keliling:", keliling)
 
+	name := "Rahmad."
+
+	if name == "Rahmad" {
+		fmt.Println("Benar")
+	} else if {
+		fmt.Println("Salah")
+	}
 }
