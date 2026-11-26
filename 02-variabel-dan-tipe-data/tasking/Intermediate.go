@@ -21,7 +21,8 @@ func main() {
 
 	// Tasking 3
 
-	celsius := 40.0
-	fahrenheit := celsius*9/5 + 34
-	fmt.Printf("%.2f°C = %.2f°F\n", celsius, fahrenheit)
+	Phi := 3.14
+	r := 7.0
+	luas := Phi * r * r
+	fmt.Println(luas)
 }
